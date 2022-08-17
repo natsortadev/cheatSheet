@@ -3,7 +3,7 @@
 `git init`
 for initializing a repository inside my local folder<br>
 `git add .`
-to add everything that is in the folder<br>
+to add everything that is in said folder<br>
 `git commit -m "[a message]"`
 for commiting, and finally<br>
 `git push <link to the GitHub repository>`
