@@ -7,4 +7,4 @@ to add everything on the folder<br>
 `git commit -m "[a message]"`
 for commiting, and finally<br>
 `git push <link to the GitHub repository>`
-to get it all here!
+to bring it all here!
