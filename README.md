@@ -8,3 +8,5 @@ to add everything that is in said folder<br>
 for commiting, and finally<br>
 `git push <link to the GitHub repository>`
 to bring it all here!
+
+Vírtuz-
